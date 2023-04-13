@@ -1,3 +1,3 @@
 # API Challenge
 
-This is my week 6 challenge, using APIs in python. 
+This is an ongoing project as part of the UofT SCS Data Analytics Bootcampmy to utilize APIs in python. 
